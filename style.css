@@ -1,0 +1,59 @@
+
+/* my body css dont touch */
+body {
+    margin: 0;
+    padding: 0;
+
+}
+
+/* css for page svg.html */
+.newPath {
+    stroke: black ;
+    stroke-width: 8;
+}
+
+.newPath path {
+    stroke:aqua;
+    stroke-linejoin: round;
+}
+
+/* css for index page */
+header {
+    width: 100%;
+    height: 40px;
+    background-color:cadetblue;
+}
+
+header a {
+    text-decoration: none;
+    color: #ffff;    
+}
+
+header ul {
+    margin: 0;
+    padding: 0;
+    float: left;
+}
+
+header li {
+    float: left;
+    display: inline;
+    padding: 0 20px 0 20px;
+}
+header a:hover {
+    text-decoration: none;
+    color: rgb(73, 70, 240);
+    text-transform: uppercase;
+    
+}
+header a::selection {
+    background: yellow;
+    
+}
+
+header nav {
+    margin-top: 20px;
+    padding: 10px 0px 0px 20px;
+}
+
+/* index for */
