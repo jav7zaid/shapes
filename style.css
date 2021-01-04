@@ -56,4 +56,12 @@ header nav {
     padding: 10px 0px 0px 20px;
 }
 
-/* index for */
+/* css for bar */
+rect {
+    fill: #044511;
+}
+
+text {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.6em;
+}
